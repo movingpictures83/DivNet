@@ -1,0 +1,3 @@
+otufile	plugins/DivNet/example/asv_abund.transpose.csv
+mapping	plugins/DivNet/example/asv_map.csv
+tree	plugins/DivNet/example/asv_tax.csv

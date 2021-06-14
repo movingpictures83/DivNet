@@ -1,0 +1,2 @@
+Prefix plugins/DivNet/example
+Plugin DivNet inputfile parameters.txt outputfile AlphaDiversity.txt
